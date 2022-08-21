@@ -1,0 +1,13 @@
+#color transition code
+
+background: linear-gradient(
+        to left bottom,
+        rgb(4, 255, 129),
+        rgba(5, 14, 14, 0.429)
+      );
+------------------------------------------------------------------------------------------------------------------
+#Background image code
+#Place the image in the same folder so it'll appear correctly
+#You can place this code in parallax in (style.css)
+
+ background-image: url("photo.jpg");
